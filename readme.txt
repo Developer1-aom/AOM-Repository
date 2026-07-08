@@ -1,1 +1,1 @@
-This repository is created for AOM POC
+This repository is created for AOM POC purpose
