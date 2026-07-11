@@ -1,0 +1,11 @@
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON employee
+TO APPS;
+
+GRANT EXECUTE
+ON emp_pkg
+TO APPS;
+
+GRANT EXECUTE
+ON get_employee_name
+TO APPS;
